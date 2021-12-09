@@ -1,0 +1,16 @@
+projects:
+  - key: api
+    dir: packages/app
+    aliases:
+      - type: snakecase
+      - type: kebabcase
+  - key: string
+    dir: packages/components
+    aliases:
+      - type: camelcase
+      - type: kebabcase
+  - key: bag-service
+    dir: packages/server
+    aliases:
+      - type: camelcase
+      - type: kebabcase
