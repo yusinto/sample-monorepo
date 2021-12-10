@@ -1,3 +1,3 @@
 export * from './http-server';
 
-coderefsFlagToFind = app.ldclient.variation('newer-baggy', user, False):
+coderefsFlagToFind = app.ldclient.variation('another-baggy', user, False):
